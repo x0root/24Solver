@@ -8,7 +8,8 @@ It takes 4 digits (1–9) and tries to make the number **24** using the basic ma
 
 The 24 Game is a math puzzle played with 4 numbers.  
 Rules:
-- Use **all 4 numbers exactly once**.  
+- Use **all 4 numbers exactly once**.
+- Only 1 - 9 numbers allowed. 
 - You can use the operations `+ - * /`.  
 - Parentheses can be added anywhere to control the order of operations.  
 - The goal: make the result equal **24**.  
