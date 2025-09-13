@@ -4,6 +4,9 @@
 A simple program that finds all possible ways to make **24** from 4 digits (1–9) using the basic operators: `+ - * /`.  
 All results are filtered to show only unique valid solutions.
 
+## Notice
+While the solver removes obvious duplicates, some results may look similar due to different parenthesis placements or equivalent math expressions.
+
 ## Run the Program
 
 1. Make sure [Go](https://go.dev/dl/) is installed.  
