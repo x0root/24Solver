@@ -1,5 +1,5 @@
 # 24 Game Solver  
-[![Go Version](https://img.shields.io/badge/Go-1.23+-blue.svg)](https://go.dev/) [![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)]() [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Go Version](https://img.shields.io/badge/Go-1.23+-blue.svg)](https://go.dev/) [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 A simple program that finds all possible ways to make **24** from 4 digits (1–9) using the basic operators: `+ - * /`.  
 All results are filtered to show only unique valid solutions.
